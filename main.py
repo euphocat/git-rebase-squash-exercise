@@ -1,8 +1,8 @@
 # a nice var
 s = 'nothing'
 
-# let'qs add comments
-print('\nThis is my great haiku:\n')
+# let's add comments
+print('\nThis is my haiku:\n')
 
 # print out the result
 print(s)
